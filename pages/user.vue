@@ -1,3 +1,5 @@
+<!-- the name of this file should be user becuase it is the parent of all user pages -->
+
 <template>
   <div>
     <!-- this part is going to run in all user pages -->
